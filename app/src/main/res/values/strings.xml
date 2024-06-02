@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan Listview dan GridView</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
